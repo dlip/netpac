@@ -4,6 +4,12 @@ A clone of the original that you can play over the network.
 
 ![](netpac.png)
 
+## Installation
+
+- Download the zip file from the [latest release](https://github.com/dlip/netpac/releases/tag/v1.1)
+- Unzip
+- Run netpac.exe
+
 ## How to play
 
 If you are the server you will start as pacman, otherwise you will start as a ghost. If you are a ghost and you kill pacman you will become pacman. If you are pacman you will get points for eating dots, and if you eat a pill you will be able to kill ghosts for the next 3 seconds. Eaten ghosts will go to the holding bay for 5 seconds. If you go off the top of the screen you will teleport to the bottom and vice versa, the same goes for left/right of the screen.
